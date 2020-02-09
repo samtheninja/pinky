@@ -10,28 +10,31 @@ header{
   text-align: center;
          
 }
-.bod   {text-align: center;
-   color:red;
-   font-size: larger;
+.bod  {
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+  font: bolder;
 }
-.link  
-  {color: pink;
+.link {
+  color: pink;
 }
-.head1 
-  {font-style: italic;
-   color: pink; 
-   opacity: 100%;
+.head1 {
+  font-style: italic;
+  color: pink; 
+  opacity: 100%;
 }
-.lol  {text-align: center;
-       color: red;
-       font-size: larger;
+.lol  {
+  text-align: center;
+  color:white;
+  font-size: xx-large;
 }
-.lol2
-  {color:pink;
-   font-size: larger;
+.lol2 {
+  color:pink;
+  font-size: larger;
 }
-.lol3
-  {text-align: center;
+.lol3 {
+  text-align: center;
 }
 
 
